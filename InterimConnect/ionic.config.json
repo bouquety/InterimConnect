@@ -1,0 +1,7 @@
+{
+  "name": "InterimConnect",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
